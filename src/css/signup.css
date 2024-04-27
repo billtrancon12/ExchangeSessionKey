@@ -1,0 +1,7 @@
+.signup_password_invalid{
+    color: red;
+}
+
+.signup_password_valid{
+    color: green;
+}
